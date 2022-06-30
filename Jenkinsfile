@@ -1,5 +1,5 @@
 def secret = 'pinoezz'
-def server = 'app@103.226.139.62'
+def server = 'jenkins@103.214.113.81'
 def directory = 'housy-frontend'
 def branch = 'production'
 
