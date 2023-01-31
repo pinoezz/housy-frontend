@@ -22,7 +22,7 @@
     "react-scripts": "3.4.1",
     "redux-promise-middleware": "^6.1.2",
     "shards-react": "^1.0.3",
-    "sweetalert2": "^9.10.12"
+    "sweetalert2": "^9.17.4"
   },
   "scripts": {
     "start": "BROWSER=none react-scripts start",
